@@ -2,7 +2,7 @@
 Stitching many images using openCV
 
 
-# 2.Libraries 
+# 1.Libraries 
     numpy
     cv2 
   
