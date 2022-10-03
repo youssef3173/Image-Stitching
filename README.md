@@ -1,5 +1,5 @@
 # Image-Stitching
-Stitching many images using SIFT keypoints detector
+Stitching many images using SIFT for keypoints detection
 
 
 # 1.Libraries 
